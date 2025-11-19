@@ -1,0 +1,5 @@
+{
+  "name": "CMMC Access Control Matrix Builder",
+  "description": "An instructional tool for building and managing CMMC Level 2 Access Control Matrices, including Technical ACM, Shared Responsibility, and CMMC Model evidence.",
+  "requestFramePermissions": []
+}
